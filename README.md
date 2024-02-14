@@ -1,4 +1,5 @@
 <h1><strong>Create an interactive Dice Roller app</strong></h1>
+[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): 
 <p>In this codelab, you create an interactive&nbsp;<strong>Dice Roller</strong>&nbsp;app that lets users tap a&nbsp;<code dir="ltr" translate="no">Button</code>&nbsp;composable to roll a dice. The outcome of the roll is shown with an&nbsp;<code dir="ltr" translate="no">Image</code>&nbsp;composable on the screen.</p>
 <p>You use Jetpack Compose with Kotlin to build your app layout and then write business logic to handle what happens when the&nbsp;<code dir="ltr" translate="no">Button</code>&nbsp;composable is tapped.</p>
 <h2>Prerequisites</h2>
